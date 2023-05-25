@@ -6,7 +6,7 @@ NOTE: This is a working inprogress project & soon i'll be releasing the first be
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What can Virtual Wii Manager do?
 
-- It can load Dolphin Emulator's contents into the PC and after finishing using the emulator on the PC the contents are retrieved back to Virtual Wii's Drive.
+- It can load Dolphin Emulator's contents into the PC and after finishing using the emulator on the PC the contents are retrieved back to Virtual Wii's Drive automatically.
 - Games can be easily installed into Virtual Wii's Drive.
 - You can easily import, export, download & install contents from the emulators' folder.
 - It can backup dolphin's & cemu's emulator folder & it's contents such as: Firmware (NAND), configurations, contents, etc..
