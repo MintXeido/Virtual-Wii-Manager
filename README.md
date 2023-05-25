@@ -3,7 +3,7 @@ A program that is created with LuaRT Compiler that is installed on a USB or an E
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-NOTE: This is a still working inprogress project & soon i'll be releasing the first beta of the program.
+NOTE: This is a still working progress project & soon i'll be releasing the first beta release of the program.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What can Virtual Wii Manager do?
