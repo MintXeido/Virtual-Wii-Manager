@@ -10,7 +10,7 @@ What can Virtual Wii Manager do?
 - Games can be easily installed into Virtual Wii's Drive.
 - You can easily import, export, download & install contents from the emulators' folder.
 - It can backup dolphin's & cemu's emulator folder & it's contents such as: Firmware (NAND), configurations, contents, etc..
-- PC Specs Detect system : This is a special system that detects the PC's components such as: RAM, CPU & GPU so a perfect settings file can be used on the emulators for the PC for better experience. <-- (Feature Work inprogress)
+- PC Specs Detect system: This is a special system that detects the PC's components such as: RAM, CPU & GPU so a perfect match of settings file can be used on the emulators for better experience & performance when running the emulators in the PC. <-- (Feature Work inprogress)
 - Custom Contents & App Plugins for the program. <-- (Feature Work inprogress)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Q&A 1
