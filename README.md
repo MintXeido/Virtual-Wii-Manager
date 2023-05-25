@@ -2,8 +2,8 @@
 A program that is created with LuaRT Compiler that is installed on a USB or an External Hard Drive, It can run wii emulators such as: Dolphin &amp; Cemu. Making these 2 programs portable &amp; easy to use on any Windows PC!
 
 NOTE: This is a still working inprogress project & soon i'll be releasing the first beta of the program.
-
-                       What can Virtual Wii Manager do?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What can Virtual Wii Manager do?
 
 - It can load Dolphin Emulator's contents into the PC and later it can be retrieved the data.
 - Games can be easily installed into Virtual Wii's Drive.
