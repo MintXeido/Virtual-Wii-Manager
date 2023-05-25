@@ -17,7 +17,7 @@ Q&A 1
 
 Q: Do you have plans releasing this program to MacOS & Linux?
 
-A: No, I do not have plans right now on releasing this program to these systems & Unfortunately LuaRT Compiler is not available to these OSes.
+A: No, I do not have plans right now on releasing this program to these systems & Unfortunately LuaRT Compiler is not available & supported on these OSes.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
