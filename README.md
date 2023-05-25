@@ -36,4 +36,4 @@ Q&A 3
 
 Q: Can this program be distributed & sold with real money?
 
-A: Nope! This is a Shareware, meaning that the program's source code cannot be distributed and canno't be sold with real money, its free!
+A: Nope! This is a Shareware, meaning that the program's source code cannot be distributed and canno't be sold with real money, its free! Although i respect the emulator's FAQ Rules & their policies.
