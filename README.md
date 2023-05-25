@@ -26,7 +26,7 @@ Q&A 2
 
 Q: How long do you plan to mantain this program?
 
-A: Depends on my available time, i might leave this project not updated for atleast 1 or 2 years but it depends the time, resources & how it responds & reacts the pubic.
+A: Depends on my available time, i might leave this project not updated for atleast 1 or 2 years but it depends the time, resources & how the pubic responds & reacts to the program.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,6 +34,6 @@ Q&A 3
 
 Q: Can this program be distributed & sold with real money?
 
-A: Nope! This is a Shareware, meaning that the program's source code cannot be distributed and canno't be sold with real money, its free!
+A: Nope! This is a Shareware, meaning that the program's source code cannot be distributed and cannot be sold with real money, its free!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
