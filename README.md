@@ -37,3 +37,5 @@ Q: Can this program be distributed & sold with real money?
 A: Nope! This is a Shareware, meaning that the program's source code cannot be distributed and cannot be sold with real money, its free!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<Center>Hello World</Center>
