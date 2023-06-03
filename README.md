@@ -4,11 +4,7 @@
 
    </head>
 
-<h1> 
-   Virtual Wii Manager 
-</h1>
-
- <hr>
+<h1>UPDATE: Project has been temporarly archived & suspended, i don't known when i might come back & continue working with the project but im taking a temporary break from programming. The project is doing a great progress, although it's first Beta release is going to be delayed.</h1>
 
 <h1> Introduction </h1>
    
