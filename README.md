@@ -4,7 +4,7 @@
 
    </head>
 
-<h2>(! PROJECT CANCELLED !) Development updates or annoucements leading this project will no longer be posted here on this GitHub Page starting today 7th-September-2023</h2>
+<h2>(! PROJECT CANCELLED !) Development updates or annoucements leading to this project will no longer be posted here on this GitHub Page or anywhere else starting today 7th-September-2023</h2>
 
 <h1>Development Update - 7/September/2023 : Unfortunately due to Costs & Unreachable and Expensive Goals for the project to work as attended, the Project has been cancelled & scrapped. There may or may not be a reboot of this project but unfortunately is it will be cancelled for now on. </h1>
 
