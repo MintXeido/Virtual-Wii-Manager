@@ -4,10 +4,12 @@
 
    </head>
 
-<h1>Development Update - 14/July/2023 : Project has been temporarly archived & suspended, i don't known when i might come back & continue working with the project but im taking a temporary break from programming. The project is doing a great progress, although it's first Beta release is going to be delayed.</h1>
+<h2>(!) There will be no more development updates or annoucements leading this project!</h2>
 
-<h1>Development Update - 7/September/2023 : Unfortunately due to Costs & Unreachable and Expensive Goals, the Project has been cancelled & scrapped. There may or may not be a reboot of this project but unfortunately is cancelled for now on. 
-   (!) There will be no more development updates or annoucements leading this project!</h1>
+<h1>Development Update - 7/September/2023 : Unfortunately due to Costs & Unreachable and Expensive Goals, the Project has been cancelled & scrapped. There may or may not be a reboot of this project but unfortunately is cancelled for now on. </h1>
+
+
+<h1>Development Update - 14/July/2023 : Project has been temporarly archived & suspended, i don't known when i might come back & continue working with the project but im taking a temporary break from programming. The project is doing a great progress, although it's first Beta release is going to be delayed.</h1>
 
 <h1> Introduction </h1>
    
