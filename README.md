@@ -46,7 +46,7 @@ A: No, I do not have plans right now on releasing this program to these systems 
 
 **Q: How long do you plan to mantain this program?**
 
-A: Depends on my available time, i might leave this project not updated for atleast 1 or 2 years but it depends the time, resources & how the pubic responds & reacts to the program.
+A: Depends on my available time, i might leave this project not updated for atleast 1 or 2 years but it depends the time, resources & how the public responds & reacts to the program.
 
  <hr>  
 
