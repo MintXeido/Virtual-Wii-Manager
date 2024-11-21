@@ -6,10 +6,10 @@
 
 <h2>(! PROJECT CANCELLED !) Development updates or annoucements leading to this project will no longer be posted here on this GitHub Page or anywhere else starting today 7th-September-2023</h2>
 
-<h1>Development Update - 7/September/2023 : Unfortunately due to Costs & Unreachable and Expensive Goals for the project to work as attended, the Project has been cancelled & scrapped. There may or may not be a reboot of this project but unfortunately it will stay cancelled for now on. </h1>
+Development Update #002 - 7/September/2023 : Unfortunately due to Costs & Unreachable and Expensive Goals for the project to work as attended, the Project has been cancelled & scrapped. There may or may not be a reboot of this project but unfortunately it will stay cancelled for now on.
 
 
-<h1>Development Update - 14/July/2023 : Project has been temporarly archived & suspended, i don't known when i might come back & continue working with the project but im taking a temporary break from programming. The project is doing a great progress, although it's first Beta release is going to be delayed.</h1>
+Development Update #001 - 14/July/2023 : Project has been temporarly archived & suspended, i don't known when i might come back & continue working with the project but im taking a temporary break from programming. The project is doing a great progress, although it's first Beta release is going to be delayed.
 
 <h1> Introduction </h1>
    
