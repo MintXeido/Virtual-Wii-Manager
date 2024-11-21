@@ -13,7 +13,7 @@ Development Update #001 - 14/July/2023 : Project has been temporarly archived & 
 
 <h1> Introduction </h1>
    
-**A program that is created with LuaRT Compiler that is installed on a USB or an External Hard Drive, It can run wii emulators such as: Dolphin &amp; Cemu. Making these 2 programs portable, managable, accessable & easy to use on any Windows PC!** 
+**A program i am creating with LuaRT that is installed on a USB or an External Hard Drive, It can run wii emulators such as: Dolphin &amp; Cemu. Making these 2 programs portable, managable, accessable & easy to use on any Windows PC!** 
 
 
  <hr>
